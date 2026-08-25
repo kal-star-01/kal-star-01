@@ -20,7 +20,7 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -111,7 +111,6 @@ An interactive marketing website focused on smooth scrolling, advanced animation
   </a>
 </p>
 
----
 
 ### 02 · E-commerce Website
 
@@ -136,7 +135,6 @@ A complete multi-page storefront covering common real-world shopping flows and i
   </a>
 </p>
 
----
 
 ### 03 · Coffee Shop Website
 
