@@ -165,11 +165,11 @@ A responsive coffee-shop website built around polished visual design, responsive
 <div align="center">
 
 <a href="https://github.com/kal-star-01">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kal-star-01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=kal-star-01&show_icons=true&&theme=radical&hide_border=true" alt="GitHub Stats">
 </a>
 
 <a href="https://github.com/kal-star-01">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kal-star-01&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages">
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kal-star-01&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages">
 </a>
 
 </div>
