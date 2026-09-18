@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <b>📍 London, UK</b> ·
+  <b>📍 Cardiff, UK</b> ·
   <b>Frontend development</b> ·
   <b>Responsive & interactive web experiences</b>
 </p>
